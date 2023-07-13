@@ -8,3 +8,6 @@ Yogesh: 1. learnt about GitHub and how to work on repositories in that
         2. learnt about pandas library
         3. explored kaggle websites and some of the datasets in that about defect detect
         4. revised python laguage 
+Rohit: 1.Currently revising python.
+       2.Explored about tensorflow,kaggle.
+       3.Exploring about github(repositories).
