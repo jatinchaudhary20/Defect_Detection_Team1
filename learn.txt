@@ -11,3 +11,6 @@ Yogesh: 1. learnt about GitHub and how to work on repositories in that
 Rohit: 1.Currently revising python.
        2.Explored about tensorflow,kaggle.
        3.Exploring about github(repositories).
+Ashutosh: 1. Revise python
+          2. Explore OpenCV libraray
+          3. Seen some video on what is Defect product detection
