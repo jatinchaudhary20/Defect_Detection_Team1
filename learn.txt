@@ -14,3 +14,5 @@ Rohit: 1.Currently revising python.
 Ashutosh: 1. Revise python
           2. Explore OpenCV libraray
           3. Seen some video on what is Defect product detection
+Yashita : 1. Revised Python and Numpy.
+          2. still learning about openCV and torchvision
